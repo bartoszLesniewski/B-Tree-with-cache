@@ -1,2 +1,2 @@
-# B Tree with cache
+# B-Tree with cache
 Implementation of B-Tree with cache.
